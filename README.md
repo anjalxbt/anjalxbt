@@ -12,7 +12,7 @@ I'm a **Computer Science Engineer** with a knack for building web applications. 
 
 - 💼 Got a freelance gig? Hit me up via <a href="mailto:anjalbuilds@gmail.com">email.</a>
 - 💬 Curious? Just ask!
-- contact: anjalbuilds@gmail.com
+- contact: contactanjal@gmail.com
 
 <div class="badges-intro">
 
