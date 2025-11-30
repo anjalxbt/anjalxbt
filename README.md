@@ -10,9 +10,9 @@ I'm a **Computer Science Engineer** with a knack for building web applications. 
 
 </div>
 
-- 💼 Got a freelance gig? Hit me up via <a href="mailto:anjalbuilds@gmail.com">email.</a>
+- 💼 Got a freelance gig? Hit me up via <a href="mailto:anjalcontact@gmail.com">email.</a>
 - 💬 Curious? Just ask!
-- contact: contactanjal@gmail.com
+- contact: anjalcontact@gmail.com
 
 <div class="badges-intro">
 
