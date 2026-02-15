@@ -6,7 +6,8 @@ const anjalxbt = {
   languages: ["javascript", "typescript", "rust"],
   frameworks: {
     backend: ["node", "nestjs"],
-    frontend: ["react", "next.js",]
+    frontend: ["react", "next.js"],
+    cli: ["rust", "ratatui"]
   },
   chains: ["solana", "svm"],
 }
